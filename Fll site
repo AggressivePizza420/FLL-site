@@ -1,0 +1,44 @@
+  <!DOCTYPE html>
+<html>
+   <head>
+      <meta charset =“utf-8”>
+      <title> FLL Project</title>
+      <base>
+   </head>
+   <body>
+      <h1>Main Page</h1>
+      <h1>Project</h1> 
+      <h1>Teams</h1>
+      <h1>More Info</h1>
+      <h1>External Links And Out Source The Sites Code</h1> 
+
+      <h2>Main Page</h2>
+      <h3>Info about us and our school</h3>
+        <p>We are a 8th grade computers class in Jerusalem, Israel. We are participating in the FLL competition.</p> //idk what else to add 
+        <p>The FLL competition is an international robotics contest for elementary and middle school students. Each year the FLL introduces a scientific or real-world challenge that each team from around the world need to research on and build their robots in a way that will overcome the challenge and complete all the obstacles. This year’s theme/challenge is called “Hydro Dynamics”, each team will have build robots that will solve missions that have to do with water, the missions are given in advance so that the teams will know how to program their robots.</p>
+        //change it if you want to
+     
+</h2>Project</h2>
+  <h3>This is our project</h3>
+    <p></p>
+  <h3>Here is the code that we used for our robots</h3>
+    <p></p>
+  <h3>Pictures</h3>
+(Pics go here)
+
+<h2>Teams</h2>
+  <h3>All the different teams</h3>
+    <h4>Team 1:</h4>
+      <p></p> -Info about team1
+    <h4>Team 2:</h4>
+   <h3>Names and assignments</h3>
+
+<h2>More info about our school</h2>
+  <h3>Map</h3>
+     (Map goes here
+  <h3>The biography of our school</h3>
+    <p></p> 
+
+<h2>External links</h2>
+   </body>
+</html>
